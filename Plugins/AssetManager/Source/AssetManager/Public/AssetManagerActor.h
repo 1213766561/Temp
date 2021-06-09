@@ -7,20 +7,15 @@
 #include "AssetManagerActor.generated.h"
 
 UCLASS()
-class ASSETMANAGER_API AAssetManagerActor : public AActor
+class ASSETMANAGER_API UAssetManagerActor : public UObject
 {
 	GENERATED_BODY()
 	
 public:	
 	// Sets default values for this actor's properties
-	AAssetManagerActor();
+	UAssetManagerActor();
 
-protected:
-	// Called when the game starts or when spawned
-	virtual void BeginPlay() override;
+	virtual FPrimaryAssetId GetPrimaryAssetId() const override; 
 
-public:	
-	// Called every frame
-	virtual void Tick(float DeltaTime) override;
 
 };

@@ -4,24 +4,17 @@
 #include "AssetManagerActor.h"
 
 // Sets default values
-AAssetManagerActor::AAssetManagerActor()
+UAssetManagerActor::UAssetManagerActor()
 {
- 	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
-	PrimaryActorTick.bCanEverTick = true;
+
 
 }
 
-// Called when the game starts or when spawned
-void AAssetManagerActor::BeginPlay()
+FPrimaryAssetId UAssetManagerActor::GetPrimaryAssetId() const
 {
-	Super::BeginPlay();
-	
+    static const FPrimaryAssetType WeaponType = TEXT("Weapon");
+    return FPrimaryAssetId(WeaponType, GetFName());
 }
 
-// Called every frame
-void AAssetManagerActor::Tick(float DeltaTime)
-{
-	Super::Tick(DeltaTime);
 
-}
 
