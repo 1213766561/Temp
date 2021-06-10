@@ -24,8 +24,11 @@ UMyAssetManager& UMyAssetManager::Get()
 void UMyAssetManager::StartInitialLoading()
 {
     Super::StartInitialLoading();
-    //ScanPathsForPrimaryAssets(TEXT("Actor"), TArray<FString>{"/Game/Path"}, UObject::StaticClass(), true);
+    int32 a =ScanPathsForPrimaryAssets(ItemType, TArray<FString>{"/Game"}, UObject::StaticClass(), true);
+
+    GEngine->AddOnScreenDebugMessage(1,110.0f,FColor::Red,FString::FromInt(a));
     //UAbilitySystemGlobals::Get().InitGlobalData();
+    
 }
 
 

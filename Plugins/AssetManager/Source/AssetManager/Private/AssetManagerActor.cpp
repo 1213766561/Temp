@@ -4,6 +4,9 @@
 #include "AssetManagerActor.h"
 
 // Sets default values
+
+
+
 UAssetManagerActor::UAssetManagerActor()
 {
 
@@ -12,8 +15,8 @@ UAssetManagerActor::UAssetManagerActor()
 
 FPrimaryAssetId UAssetManagerActor::GetPrimaryAssetId() const
 {
-    static const FPrimaryAssetType WeaponType = TEXT("Weapon");
-    return FPrimaryAssetId(WeaponType, GetFName());
+
+    return FPrimaryAssetId(MyItemType, GetFName());
 }
 
 
