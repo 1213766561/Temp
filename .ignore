@@ -1,6 +1,15 @@
 .git
 .vscode
 Content
+DerivedDataCache
 Intermediate
 Saved
+Script
+Plugins/AssetManager/Content
 Plugins/AssetManager/Intermediate
+Plugins/BagSystem/Content
+Plugins/BagSystem/Intermediate
+Plugins/BuildSystem/Content
+Plugins/BuildSystem/Intermediate
+Plugins/ItemSystem/Content
+Plugins/ItemSystem/Intermediate
