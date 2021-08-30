@@ -13,14 +13,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define ITEMSYSTEM_Item_Base_generated_h
 
-#define Temp_Plugins_ItemSystem_Source_ItemSystem_Item_Base_h_46_GENERATED_BODY \
+#define Temp_Plugins_ItemSystem_Source_ItemSystem_Public_Item_Base_h_46_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FStruct_Dynamic_Item_Statics; \
 	ITEMSYSTEM_API static class UScriptStruct* StaticStruct();
 
 
 template<> ITEMSYSTEM_API UScriptStruct* StaticStruct<struct FStruct_Dynamic_Item>();
 
-#define Temp_Plugins_ItemSystem_Source_ItemSystem_Item_Base_h_23_GENERATED_BODY \
+#define Temp_Plugins_ItemSystem_Source_ItemSystem_Public_Item_Base_h_23_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FStruct_Static_Item_Statics; \
 	ITEMSYSTEM_API static class UScriptStruct* StaticStruct(); \
 	typedef FTableRowBase Super;
@@ -29,7 +29,7 @@ template<> ITEMSYSTEM_API UScriptStruct* StaticStruct<struct FStruct_Dynamic_Ite
 template<> ITEMSYSTEM_API UScriptStruct* StaticStruct<struct FStruct_Static_Item>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Temp_Plugins_ItemSystem_Source_ItemSystem_Item_Base_h
+#define CURRENT_FILE_ID Temp_Plugins_ItemSystem_Source_ItemSystem_Public_Item_Base_h
 
 
 #define FOREACH_ENUM_EITEMENUM(op) \

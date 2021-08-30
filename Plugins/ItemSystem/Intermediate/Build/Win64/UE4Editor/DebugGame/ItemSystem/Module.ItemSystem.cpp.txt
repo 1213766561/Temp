@@ -1,3 +1,11 @@
 D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Intermediate\Build\Win64\UE4Editor\DebugGame\ItemSystem\Definitions.ItemSystem.h
+D:/UE4_Project/Gitee/Temp/Plugins/ItemSystem/Source/ItemSystem/Private/ItemFunctionLib.cpp
+D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Source\ItemSystem\Public\ItemFunctionLib.h
+D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Source\ItemSystem/public/Item_Base.h
+D:\UE4_Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+D:\UE4_Engine\UE_4.26\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+D:\UE4_Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Intermediate\Build\Win64\UE4Editor\Inc\ItemSystem\Item_Base.generated.h
+D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Intermediate\Build\Win64\UE4Editor\Inc\ItemSystem\ItemFunctionLib.generated.h
 D:/UE4_Project/Gitee/Temp/Plugins/ItemSystem/Source/ItemSystem/Private/ItemSystem.cpp
 D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Source\ItemSystem\Public\ItemSystem.h

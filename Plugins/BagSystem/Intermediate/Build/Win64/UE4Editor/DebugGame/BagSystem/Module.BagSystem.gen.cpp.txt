@@ -1,13 +1,10 @@
 D:\UE4_Project\Gitee\Temp\Plugins\BagSystem\Intermediate\Build\Win64\UE4Editor\DebugGame\BagSystem\Definitions.BagSystem.h
-D:/UE4_Project/Gitee/Temp/Plugins/BagSystem/Intermediate/Build/Win64/UE4Editor/Inc/BagSystem/Bag_Struct_Dynamic.gen.cpp
+D:/UE4_Project/Gitee/Temp/Plugins/BagSystem/Intermediate/Build/Win64/UE4Editor/Inc/BagSystem/BagComp.gen.cpp
 D:\UE4_Engine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 D:\UE4_Engine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\UE4_Project\Gitee\Temp\Plugins\BagSystem\Source\BagSystem/Bag_Struct_Dynamic.h
-D:\UE4_Project\Gitee\Temp\Plugins\BagSystem\Intermediate\Build\Win64\UE4Editor\Inc\BagSystem\Bag_Struct_Dynamic.generated.h
-D:/UE4_Project/Gitee/Temp/Plugins/BagSystem/Intermediate/Build/Win64/UE4Editor/Inc/BagSystem/BagComp.gen.cpp
 D:\UE4_Project\Gitee\Temp\Plugins\BagSystem\Source\BagSystem/BagComp.h
-D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Source\ItemSystem/ItemComp.h
-D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Source\ItemSystem\Item_Base.h
+D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Source\ItemSystem/Public/ItemComp.h
+D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Source\ItemSystem\Public\Item_Base.h
 D:\UE4_Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
 D:\UE4_Engine\UE_4.26\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
 D:\UE4_Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h

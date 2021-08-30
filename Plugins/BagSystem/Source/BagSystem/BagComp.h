@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
-#include "ItemSystem/ItemComp.h"
+#include "ItemSystem/Public/ItemComp.h"
 #include "BagComp.generated.h"
 
 //BagSystem

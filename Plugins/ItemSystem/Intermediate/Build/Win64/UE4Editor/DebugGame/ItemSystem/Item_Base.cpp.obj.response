@@ -263,7 +263,7 @@
 /FI"D:\UE4_Project\Gitee\Temp\Intermediate\Build\Win64\TempProjectEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h"
 /Yu"D:\UE4_Project\Gitee\Temp\Intermediate\Build\Win64\TempProjectEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h"
 /Fp"D:\UE4_Project\Gitee\Temp\Intermediate\Build\Win64\TempProjectEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.pch"
-"D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Source\ItemSystem\Item_Base.cpp"
+"D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Source\ItemSystem\Private\Item_Base.cpp"
 /FI"D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Intermediate\Build\Win64\UE4Editor\DebugGame\ItemSystem\Definitions.ItemSystem.h"
 /Fo"D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Intermediate\Build\Win64\UE4Editor\DebugGame\ItemSystem\Item_Base.cpp.obj"
 /TP

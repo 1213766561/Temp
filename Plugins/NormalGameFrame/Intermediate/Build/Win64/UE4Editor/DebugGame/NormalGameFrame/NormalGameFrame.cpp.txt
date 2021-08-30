@@ -1,0 +1,2 @@
+D:\UE4_Project\Gitee\Temp\Plugins\NormalGameFrame\Intermediate\Build\Win64\UE4Editor\DebugGame\NormalGameFrame\Definitions.NormalGameFrame.h
+D:\UE4_Project\Gitee\Temp\Plugins\NormalGameFrame\Source\NormalGameFrame\Public\NormalGameFrame.h

@@ -2,16 +2,16 @@
 	"RemapUnityFiles": 
 	{
 		"Module.ItemSystem.cpp.obj": [
+			"ItemFunctionLib.cpp.obj",
 			"ItemSystem.cpp.obj",
 			"Item_Base.cpp.obj",
-			"ItemComp.cpp.obj",
-			"ItemFunctionLib.cpp.obj"
+			"ItemComp.cpp.obj"
 		],
 		"Module.ItemSystem.gen.cpp.obj": [
-			"Item_Base.gen.cpp.obj",
 			"ItemComp.gen.cpp.obj",
 			"ItemFunctionLib.gen.cpp.obj",
-			"ItemSystem.init.gen.cpp.obj"
+			"ItemSystem.init.gen.cpp.obj",
+			"Item_Base.gen.cpp.obj"
 		]
 	}
 }

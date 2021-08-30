@@ -1,0 +1,29 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NormalGameFrame.cpp.obj": [
+			"NM_ControllerBase.cpp.obj",
+			"NM_FrameBaseType.cpp.obj",
+			"NM_FrameInterface.cpp.obj",
+			"NM_FunctionLibrary.cpp.obj",
+			"NM_GameInstance.cpp.obj",
+			"NM_GameMode.cpp.obj",
+			"NM_GameState.cpp.obj",
+			"NM_PawnBase.cpp.obj",
+			"NM_PlayerState.cpp.obj",
+			"NormalGameFrame.cpp.obj"
+		],
+		"Module.NormalGameFrame.gen.cpp.obj": [
+			"NM_ControllerBase.gen.cpp.obj",
+			"NM_FrameBaseType.gen.cpp.obj",
+			"NM_FrameInterface.gen.cpp.obj",
+			"NM_FunctionLibrary.gen.cpp.obj",
+			"NM_GameInstance.gen.cpp.obj",
+			"NM_GameMode.gen.cpp.obj",
+			"NM_GameState.gen.cpp.obj",
+			"NM_PawnBase.gen.cpp.obj",
+			"NM_PlayerState.gen.cpp.obj",
+			"NormalGameFrame.init.gen.cpp.obj"
+		]
+	}
+}

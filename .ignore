@@ -13,3 +13,5 @@ Plugins/BuildSystem/Content
 Plugins/BuildSystem/Intermediate
 Plugins/ItemSystem/Content
 Plugins/ItemSystem/Intermediate
+Plugins/NormalGameFrame/Content
+Plugins/NormalGameFrame/Intermediate

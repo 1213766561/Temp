@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NormalGameFrame-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE4_Project\Gitee\Temp\Intermediate\Build\Win64\TempProjectEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"D:\UE4_Project\Gitee\Temp\Plugins\NormalGameFrame\Intermediate\Build\Win64\UE4Editor\DebugGame\NormalGameFrame\NormalGameFrame.cpp.obj"
+"D:\UE4_Project\Gitee\Temp\Plugins\NormalGameFrame\Intermediate\Build\Win64\UE4Editor\DebugGame\NormalGameFrame\Default.rc2.res"
+/OUT:"D:\UE4_Project\Gitee\Temp\Plugins\NormalGameFrame\Intermediate\Build\Win64\UE4Editor\DebugGame\NormalGameFrame\UE4Editor-NormalGameFrame-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_NormalGameFrame

@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "ItemSystem/Item_Base.h"
+#include "ItemSystem/public/Item_Base.h"
 #include "Kismet/BlueprintFunctionLibrary.h"
 #include "ItemFunctionLib.generated.h"
 

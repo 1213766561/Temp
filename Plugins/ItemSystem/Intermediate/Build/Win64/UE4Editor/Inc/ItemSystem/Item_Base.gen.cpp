@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "ItemSystem/Item_Base.h"
+#include "ItemSystem/Public/Item_Base.h"
 #ifdef _MSC_VER
 #pragma warning (push)
 #pragma warning (disable : 4883)
@@ -34,7 +34,7 @@ void EmptyLinkFunctionForGeneratedCodeItem_Base() {}
 		return EItemEnum_StaticEnum();
 	}
 	static FCompiledInDeferEnum Z_CompiledInDeferEnum_UEnum_EItemEnum(EItemEnum_StaticEnum, TEXT("/Script/ItemSystem"), TEXT("EItemEnum"), false, nullptr, nullptr);
-	uint32 Get_Z_Construct_UEnum_ItemSystem_EItemEnum_Hash() { return 3010947929U; }
+	uint32 Get_Z_Construct_UEnum_ItemSystem_EItemEnum_Hash() { return 4239355977U; }
 	UEnum* Z_Construct_UEnum_ItemSystem_EItemEnum()
 	{
 #if WITH_HOT_RELOAD
@@ -53,7 +53,7 @@ void EmptyLinkFunctionForGeneratedCodeItem_Base() {}
 				{ "BlueprintType", "true" },
 				{ "E_Normal.DisplayName", "Normal" },
 				{ "E_Normal.Name", "EItemEnum::E_Normal" },
-				{ "ModuleRelativePath", "Item_Base.h" },
+				{ "ModuleRelativePath", "Public/Item_Base.h" },
 			};
 #endif
 			static const UE4CodeGen_Private::FEnumParams EnumParams = {
@@ -123,7 +123,7 @@ static struct FScriptStruct_ItemSystem_StaticRegisterNativesFStruct_Dynamic_Item
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStruct_Dynamic_Item_Statics::Struct_MetaDataParams[] = {
 		{ "BlueprintType", "true" },
-		{ "ModuleRelativePath", "Item_Base.h" },
+		{ "ModuleRelativePath", "Public/Item_Base.h" },
 	};
 #endif
 	void* Z_Construct_UScriptStruct_FStruct_Dynamic_Item_Statics::NewStructOps()
@@ -134,7 +134,7 @@ static struct FScriptStruct_ItemSystem_StaticRegisterNativesFStruct_Dynamic_Item
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStruct_Dynamic_Item_Statics::NewProp_ItemID_MetaData[] = {
 		{ "Category", "Table" },
 		{ "Comment", "//ItemID\n" },
-		{ "ModuleRelativePath", "Item_Base.h" },
+		{ "ModuleRelativePath", "Public/Item_Base.h" },
 		{ "ToolTip", "ItemID" },
 	};
 #endif
@@ -143,7 +143,7 @@ static struct FScriptStruct_ItemSystem_StaticRegisterNativesFStruct_Dynamic_Item
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStruct_Dynamic_Item_Statics::NewProp_Num_MetaData[] = {
 		{ "Category", "Table" },
 		{ "Comment", "//ItemNum\n" },
-		{ "ModuleRelativePath", "Item_Base.h" },
+		{ "ModuleRelativePath", "Public/Item_Base.h" },
 		{ "ToolTip", "ItemNum" },
 	};
 #endif
@@ -152,7 +152,7 @@ static struct FScriptStruct_ItemSystem_StaticRegisterNativesFStruct_Dynamic_Item
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStruct_Dynamic_Item_Statics::NewProp_SlotIndex_MetaData[] = {
 		{ "Category", "Table" },
 		{ "Comment", "//ItemIndex\n" },
-		{ "ModuleRelativePath", "Item_Base.h" },
+		{ "ModuleRelativePath", "Public/Item_Base.h" },
 		{ "ToolTip", "ItemIndex" },
 	};
 #endif
@@ -162,7 +162,7 @@ static struct FScriptStruct_ItemSystem_StaticRegisterNativesFStruct_Dynamic_Item
 		{ "Category", "Table" },
 		{ "Comment", "//ItemComp\n" },
 		{ "EditInline", "true" },
-		{ "ModuleRelativePath", "Item_Base.h" },
+		{ "ModuleRelativePath", "Public/Item_Base.h" },
 		{ "ToolTip", "ItemComp" },
 	};
 #endif
@@ -201,7 +201,7 @@ static struct FScriptStruct_ItemSystem_StaticRegisterNativesFStruct_Dynamic_Item
 		}
 		return ReturnStruct;
 	}
-	uint32 Get_Z_Construct_UScriptStruct_FStruct_Dynamic_Item_Hash() { return 3356574003U; }
+	uint32 Get_Z_Construct_UScriptStruct_FStruct_Dynamic_Item_Hash() { return 3376729615U; }
 
 static_assert(std::is_polymorphic<FStruct_Static_Item>() == std::is_polymorphic<FTableRowBase>(), "USTRUCT FStruct_Static_Item cannot be polymorphic unless super FTableRowBase is polymorphic");
 
@@ -257,7 +257,7 @@ static struct FScriptStruct_ItemSystem_StaticRegisterNativesFStruct_Static_Item
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStruct_Static_Item_Statics::Struct_MetaDataParams[] = {
 		{ "BlueprintType", "true" },
-		{ "ModuleRelativePath", "Item_Base.h" },
+		{ "ModuleRelativePath", "Public/Item_Base.h" },
 	};
 #endif
 	void* Z_Construct_UScriptStruct_FStruct_Static_Item_Statics::NewStructOps()
@@ -268,7 +268,7 @@ static struct FScriptStruct_ItemSystem_StaticRegisterNativesFStruct_Static_Item
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStruct_Static_Item_Statics::NewProp_ItemID_MetaData[] = {
 		{ "Category", "Table" },
 		{ "Comment", "//ItemID\n" },
-		{ "ModuleRelativePath", "Item_Base.h" },
+		{ "ModuleRelativePath", "Public/Item_Base.h" },
 		{ "ToolTip", "ItemID" },
 	};
 #endif
@@ -278,7 +278,7 @@ static struct FScriptStruct_ItemSystem_StaticRegisterNativesFStruct_Static_Item
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStruct_Static_Item_Statics::NewProp_ItemType_MetaData[] = {
 		{ "Category", "Table" },
 		{ "Comment", "//Item\xe7\xb1\xbb\xe5\x9e\x8b\x09\n" },
-		{ "ModuleRelativePath", "Item_Base.h" },
+		{ "ModuleRelativePath", "Public/Item_Base.h" },
 		{ "ToolTip", "Item\xe7\xb1\xbb\xe5\x9e\x8b" },
 	};
 #endif
@@ -287,7 +287,7 @@ static struct FScriptStruct_ItemSystem_StaticRegisterNativesFStruct_Static_Item
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStruct_Static_Item_Statics::NewProp_SlotMaxNum_MetaData[] = {
 		{ "Category", "Table" },
 		{ "Comment", "//\xe6\xa7\xbd\xe4\xbd\x8d\xe6\x9c\x80\xe5\xa4\xa7\xe5\xa0\x86\xe5\x8f\xa0\xe6\x95\xb0\n" },
-		{ "ModuleRelativePath", "Item_Base.h" },
+		{ "ModuleRelativePath", "Public/Item_Base.h" },
 		{ "ToolTip", "\xe6\xa7\xbd\xe4\xbd\x8d\xe6\x9c\x80\xe5\xa4\xa7\xe5\xa0\x86\xe5\x8f\xa0\xe6\x95\xb0" },
 	};
 #endif
@@ -296,7 +296,7 @@ static struct FScriptStruct_ItemSystem_StaticRegisterNativesFStruct_Static_Item
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FStruct_Static_Item_Statics::NewProp_AgreeRemove_MetaData[] = {
 		{ "Category", "Table" },
 		{ "Comment", "//\xe6\xa7\xbd\xe4\xbd\x8d\xe6\x98\xaf\xe5\x90\xa6\xe8\x83\xbd\xe5\xa4\x9f\xe7\xa7\xbb\xe9\x99\xa4\n" },
-		{ "ModuleRelativePath", "Item_Base.h" },
+		{ "ModuleRelativePath", "Public/Item_Base.h" },
 		{ "ToolTip", "\xe6\xa7\xbd\xe4\xbd\x8d\xe6\x98\xaf\xe5\x90\xa6\xe8\x83\xbd\xe5\xa4\x9f\xe7\xa7\xbb\xe9\x99\xa4" },
 	};
 #endif
@@ -340,7 +340,7 @@ static struct FScriptStruct_ItemSystem_StaticRegisterNativesFStruct_Static_Item
 		}
 		return ReturnStruct;
 	}
-	uint32 Get_Z_Construct_UScriptStruct_FStruct_Static_Item_Hash() { return 2062245891U; }
+	uint32 Get_Z_Construct_UScriptStruct_FStruct_Static_Item_Hash() { return 1968568672U; }
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 #ifdef _MSC_VER
 #pragma warning (pop)
