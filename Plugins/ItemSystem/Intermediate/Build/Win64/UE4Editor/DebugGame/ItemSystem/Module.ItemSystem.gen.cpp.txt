@@ -1,0 +1,16 @@
+D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Intermediate\Build\Win64\UE4Editor\DebugGame\ItemSystem\Definitions.ItemSystem.h
+D:/UE4_Project/Gitee/Temp/Plugins/ItemSystem/Intermediate/Build/Win64/UE4Editor/Inc/ItemSystem/Item_Base.gen.cpp
+D:\UE4_Engine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE4_Engine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Source\ItemSystem/Item_Base.h
+D:\UE4_Engine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+D:\UE4_Engine\UE_4.26\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+D:\UE4_Engine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Intermediate\Build\Win64\UE4Editor\Inc\ItemSystem\Item_Base.generated.h
+D:/UE4_Project/Gitee/Temp/Plugins/ItemSystem/Intermediate/Build/Win64/UE4Editor/Inc/ItemSystem/ItemComp.gen.cpp
+D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Source\ItemSystem/ItemComp.h
+D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Intermediate\Build\Win64\UE4Editor\Inc\ItemSystem\ItemComp.generated.h
+D:/UE4_Project/Gitee/Temp/Plugins/ItemSystem/Intermediate/Build/Win64/UE4Editor/Inc/ItemSystem/ItemFunctionLib.gen.cpp
+D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Source\ItemSystem/Public/ItemFunctionLib.h
+D:\UE4_Project\Gitee\Temp\Plugins\ItemSystem\Intermediate\Build\Win64\UE4Editor\Inc\ItemSystem\ItemFunctionLib.generated.h
+D:/UE4_Project/Gitee/Temp/Plugins/ItemSystem/Intermediate/Build/Win64/UE4Editor/Inc/ItemSystem/ItemSystem.init.gen.cpp

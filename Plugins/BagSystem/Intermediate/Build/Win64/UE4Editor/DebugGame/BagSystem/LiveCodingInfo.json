@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BagSystem.cpp.obj": [
+			"Bag_Struct_Dynamic.cpp.obj",
+			"BagSystem.cpp.obj",
+			"BagComp.cpp.obj"
+		],
+		"Module.BagSystem.gen.cpp.obj": [
+			"Bag_Struct_Dynamic.gen.cpp.obj",
+			"BagComp.gen.cpp.obj",
+			"BagSystem.init.gen.cpp.obj"
+		]
+	}
+}

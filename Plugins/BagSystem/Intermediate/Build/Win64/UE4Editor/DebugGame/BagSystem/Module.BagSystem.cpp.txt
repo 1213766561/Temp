@@ -1,0 +1,6 @@
+D:\UE4_Project\Gitee\Temp\Plugins\BagSystem\Intermediate\Build\Win64\UE4Editor\DebugGame\BagSystem\Definitions.BagSystem.h
+D:/UE4_Project/Gitee/Temp/Plugins/BagSystem/Source/BagSystem/Bag_Struct_Dynamic.cpp
+D:\UE4_Project\Gitee\Temp\Plugins\BagSystem\Source\BagSystem\Bag_Struct_Dynamic.h
+D:\UE4_Project\Gitee\Temp\Plugins\BagSystem\Intermediate\Build\Win64\UE4Editor\Inc\BagSystem\Bag_Struct_Dynamic.generated.h
+D:/UE4_Project/Gitee/Temp/Plugins/BagSystem/Source/BagSystem/Private/BagSystem.cpp
+D:\UE4_Project\Gitee\Temp\Plugins\BagSystem\Source\BagSystem\Public\BagSystem.h

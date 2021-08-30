@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BuildSystem.cpp.obj": [
+			"Build_Enum.cpp.obj",
+			"Build_Struct_Dynamic.cpp.obj",
+			"Build_Struct_Static.cpp.obj",
+			"BuildComp.cpp.obj",
+			"BuildSystem.cpp.obj"
+		],
+		"Module.BuildSystem.gen.cpp.obj": [
+			"Build_Enum.gen.cpp.obj",
+			"Build_Struct_Dynamic.gen.cpp.obj",
+			"Build_Struct_Static.gen.cpp.obj",
+			"BuildComp.gen.cpp.obj",
+			"BuildSystem.init.gen.cpp.obj"
+		]
+	}
+}

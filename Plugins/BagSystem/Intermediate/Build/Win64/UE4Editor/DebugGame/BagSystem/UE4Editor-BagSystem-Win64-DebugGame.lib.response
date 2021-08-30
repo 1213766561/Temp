@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BagSystem-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE4_Project\Gitee\Temp\Intermediate\Build\Win64\TempProjectEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"D:\UE4_Project\Gitee\Temp\Plugins\BagSystem\Intermediate\Build\Win64\UE4Editor\DebugGame\BagSystem\BagComp.cpp.obj"
+"D:\UE4_Project\Gitee\Temp\Plugins\BagSystem\Intermediate\Build\Win64\UE4Editor\DebugGame\BagSystem\Module.BagSystem.cpp.obj"
+"D:\UE4_Project\Gitee\Temp\Plugins\BagSystem\Intermediate\Build\Win64\UE4Editor\DebugGame\BagSystem\Module.BagSystem.gen.cpp.obj"
+"D:\UE4_Project\Gitee\Temp\Plugins\BagSystem\Intermediate\Build\Win64\UE4Editor\DebugGame\BagSystem\Default.rc2.res"
+/OUT:"D:\UE4_Project\Gitee\Temp\Plugins\BagSystem\Intermediate\Build\Win64\UE4Editor\DebugGame\BagSystem\UE4Editor-BagSystem-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_BagSystem

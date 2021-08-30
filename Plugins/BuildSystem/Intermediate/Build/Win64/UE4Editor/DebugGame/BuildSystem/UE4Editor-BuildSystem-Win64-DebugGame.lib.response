@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BuildSystem-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE4_Project\Gitee\Temp\Intermediate\Build\Win64\TempProjectEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"D:\UE4_Project\Gitee\Temp\Plugins\BuildSystem\Intermediate\Build\Win64\UE4Editor\DebugGame\BuildSystem\Module.BuildSystem.cpp.obj"
+"D:\UE4_Project\Gitee\Temp\Plugins\BuildSystem\Intermediate\Build\Win64\UE4Editor\DebugGame\BuildSystem\Module.BuildSystem.gen.cpp.obj"
+"D:\UE4_Project\Gitee\Temp\Plugins\BuildSystem\Intermediate\Build\Win64\UE4Editor\DebugGame\BuildSystem\Default.rc2.res"
+/OUT:"D:\UE4_Project\Gitee\Temp\Plugins\BuildSystem\Intermediate\Build\Win64\UE4Editor\DebugGame\BuildSystem\UE4Editor-BuildSystem-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_BuildSystem
